@@ -3,7 +3,7 @@
     padding: 0px;
 }
 body{
-    background-image: url(./images/background.jpg);
+    background-image: url(../images/background.jpg);
     background-position: bottom;
     font-family: tahoma;
 }
@@ -24,7 +24,7 @@ body{
 .logo {
     position: relative;
     float: left;
-    margin: 14px 14px 0px;
+    margin: 14px 14px -2px;
     font-size: 12px; 
 }
 #text-logo{
